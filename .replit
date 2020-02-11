@@ -1,2 +1,0 @@
-language="scheme"
-run = "scheme lambdas.scm"
